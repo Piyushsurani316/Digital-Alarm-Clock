@@ -1,0 +1,1 @@
+<?xml version="1.0" ?><eventpoints><eventCombination action="EB" function="B_OR"><oaEventpoint accessSize="BYTE" bus="CPU"><startAddress>&amp;((clock_setup_time).second)</startAddress><timerID><![CDATA[]]></timerID><comment>&amp;((clock_setup_time).second)</comment><enabled>false</enabled></oaEventpoint></eventCombination></eventpoints>
